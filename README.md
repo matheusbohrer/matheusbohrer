@@ -1,4 +1,4 @@
-# Hi 👋, I'm Matheus Alves
+# Hi 👋, I'm Matheus Bohrer
 
 - 🌱 I’m currently studying **Systems Development at SESI/SENAI**  
 - 💻 I’m learning about **Web Development, Databases, and Python**  
