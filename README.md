@@ -1,7 +1,7 @@
 # Hi 👋, I'm Matheus Bohrer
 
-🎓 Student – Systems Development at SESI/SENAI**
-🚆 Current Project – Building FerroviaX, a smart mobility solution for the Brazilian railway system
+🎓 Student – Systems Development at SESI/SENAI
+🚆 Current Project – Building **FerroviaX**, a smart mobility solution for the Brazilian railway system
 💻 Focus Areas – Web Development • Databases • Python
 🤖 Passions – Artificial Intelligence • Machine Learning • Automation
 🌍 Languages – Portuguese (native) • English (C1 – fluent)
