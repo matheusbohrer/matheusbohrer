@@ -1,9 +1,10 @@
 # Hi 👋, I'm Matheus Bohrer
 
-- 🌱 I’m currently studying **Systems Development at SESI/SENAI**  
-- 💻 I’m learning about **Web Development, Databases, and Python**  
-- 🤖 I’m interested in **AI, machine learning, and automation**  
-- 🌍 I speak **native Portuguese** and **fluent English (C1)**  
+🎓 Student – Systems Development at SESI/SENAI
+🚆 Current Project – Building FerroviaX, a smart mobility solution for the Brazilian railway system
+💻 Focus Areas – Web Development • Databases • Python
+🤖 Passions – Artificial Intelligence • Machine Learning • Automation
+🌍 Languages – Portuguese (native) • English (C1 – fluent)
 
 ---
 
