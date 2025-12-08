@@ -28,5 +28,6 @@
 ### 📊 GitHub Stats
 
 ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusbohrer&show_icons=true&theme=tokyonight)
+[![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=amatheusbohrer)](https://github.com/matheusbohrer/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbohrer&layout=compact&theme=tokyonight)
